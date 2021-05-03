@@ -1,6 +1,3 @@
-//
-// Created by Drew Kunkel on 4/18/2021.
-//
 
 #include "PokemonData.h"
 #include <iostream>
