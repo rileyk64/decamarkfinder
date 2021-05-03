@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/DataVector.cpp
+iostream
+-
+string
+-
+DataVector.h
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/DataVector.h
+
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/DataVector.h
+string
+-
+vector
+-
+PokemonData.h
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/PokemonData.h
+
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/PokemonData.cpp
+PokemonData.h
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/PokemonData.h
+iostream
+-
+iomanip
+-
+
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/PokemonData.h
+vector
+-
+fstream
+-
+
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/main.cpp
+iostream
+-
+PokemonData.h
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/PokemonData.h
+DataVector.h
+D:/Users/Drew Kunkel/CLion Projects/FinalProject/DataVector.h
+
