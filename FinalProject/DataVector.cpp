@@ -1,6 +1,4 @@
-//
-// Created by Riley Kunkel on 4/25/2021.
-//
+
 #include <iostream>
 #include <string>
 #include "DataVector.h"
